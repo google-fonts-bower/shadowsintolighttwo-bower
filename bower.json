@@ -1,0 +1,17 @@
+{
+    "name": "shadowsintolighttwo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kimberly Geswein"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/shadowsintolighttwo-bower.git"
+    },
+    "description": "Shadows Into Light Two font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
